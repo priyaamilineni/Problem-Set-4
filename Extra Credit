@@ -45,5 +45,5 @@ Voter turnout numbers for Fairfax County, Virginia for the 2016 election
          Primary Key: precinct name
          Foreign Key: shape area
             
-    I think the tables should be organized this way because the shape area and lenghth of the precinct are similar types of inforamtion
+    I think the tables should be organized this way because the shape area and lenghth of the precinct are similar types of information
     The data in the first table all pertains directly to voter turnout
