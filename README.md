@@ -19,10 +19,15 @@ Demographic stastics of New York City broken down by zipcode last updated on Apr
 
 
 •	Each row in the first table will be a different zip code
+
     The columns will be:
+    
       Number of people
+      
       Number of people who identify as female
+      
       Number of people who identify as male
+      
 •	Each row in the second table will be a different zip code
     The columns will be:
       Number of people
