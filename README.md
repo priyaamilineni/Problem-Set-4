@@ -27,6 +27,9 @@ Demographic stastics of New York City broken down by zipcode last updated on Apr
          Number of people who identify as female
       
          Number of people who identify as male
+         
+         Primary Key: Zip Code
+         Foreign Key: Count Participants
       
     Each row in the second table will be a different zip code
         
@@ -34,7 +37,10 @@ Demographic stastics of New York City broken down by zipcode last updated on Apr
         
          Number of people
             
-         Count of people in each ethnographic group
+         Count of people in each ethnic group
+         
+         Primary Key: Count Participants
+         Foreign Key: Whites
             
     I’m organizing the tables this way because sex and ethnic group are
     different types of demographic information, so it may make more sense
