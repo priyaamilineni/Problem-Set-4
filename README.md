@@ -36,4 +36,6 @@ Demographic stastics of New York City broken down by zipcode last updated on Apr
             
          Count of people in each ethnographic group
             
-    I’m organizing the tables this way because sex and ethnic group are different types of demographic information, so it may make more sense to put them into separate tables.
+    I’m organizing the tables this way because sex and ethnic group are
+    different types of demographic information, so it may make more sense
+    to put them into separate tables.
