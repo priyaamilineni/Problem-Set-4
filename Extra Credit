@@ -1,1 +1,49 @@
+# Metadata for the 2016_Election_Results_Voter_Turnout.csv data file.
 
+
+This file was downloaded from data.govhttps://catalog.data.gov/dataset/2016-election-results-voter-turnout-47c1f
+
+Voter turnout numbers for Fairfax County, Virginia for the 2016 election
+
+|Column name | Description|
+|------------|------------|
+| Preecinct | Precinct Number
+| County | Fairfax County
+| Name_1 | Precinct Name 
+| RegVoters | Number of registered voters in the precinct
+| TotBallotsr | Number of total ballots cast
+| PercVote | Percentage of the total vote
+| Inperson |Number of people who voted in person
+| TotalBallot | Total number of ballots cats at that location
+|Shape Area | Shape area of the precinct 
+
+
+    Each row in the first table will be tied to a particular precinct name
+        The columns will be:
+    
+         registered voters
+      
+         number of total ballots
+      
+         Percentage of the total vote
+         
+         The number of voters who voted in person
+         
+         Primary Key: precinct name
+         Foreign Key: registered voters
+      
+    Each row in the first table will be tied to a particular precinct name
+        
+        The columns will be:
+        
+         Shape area of the precinct
+            
+         Shape Length of the precinct
+         
+         Number of voters in the precinct
+         
+         Primary Key: precinct name
+         Foreign Key: shape area
+            
+    I think the tables should be organized this way because the shape area and lenghth of the precinct are similar types of inforamtion
+    The data in the first table all pertains directly to voter turnout
