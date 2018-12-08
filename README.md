@@ -1,19 +1,17 @@
-# GitHub.com Registration Assignment
+# Metadata for the Demographic_Stastics_By_Zip_Code.csv data file.
 
-Once you click the link for this assignment, you should have a copy of this repository in your account.
 
-## Edit this README.md file on the web site
+This file was downloaded from data.gov https://catalog.data.gov/dataset/demographic-statistics-by-zip-code-acfc9
 
-Click on the README.md file and click the pencil edit this file icon.
+Demographic stastics of New York City broken down by zipcode last updated on April 4,2018. 
 
-## Add your name below:
-
-Your name:
-
-## Save your changes to a new branch
-
- 1. Scroll to the bottom of the page where it says **Commit changes**
- 1. Click the radio box that says "Create a new branch for this commit and start a pull request."
- 1. Click the green Propose file change button.
-
-## Thats it!
+|Column name | Description|
+|------------|------------|
+| Count Participants | Number of participants in each zipcode
+| Count Male | Number of males 
+| Count Female | Number of females
+| Count Pacific Islander | Number of Pacific Islanders
+| Count Hispanic Latino | Number of people who are Hispanic or Latino
+| Count American Indian |Number of American Indians
+| Count White Non Hispanic |Number of non-Hispanic Whites
+| Count Black Non Hispanic| Number of non-Hispanic African Americans 
