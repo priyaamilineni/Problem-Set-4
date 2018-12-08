@@ -7,6 +7,7 @@ Demographic stastics of New York City broken down by zipcode last updated on Apr
 
 |Column name | Description|
 |------------|------------|
+| Zip Code | Zip Codes in New York City
 | Count Participants | Number of participants in each zipcode
 | Count Male | Number of males 
 | Count Female | Number of females
